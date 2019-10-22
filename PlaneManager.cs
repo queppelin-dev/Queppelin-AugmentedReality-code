@@ -1,9 +1,6 @@
-/*============================================================================== 
-Copyright (c) 2017-2018 PTC Inc. All Rights Reserved.
-
-Vuforia is a trademark of PTC Inc., registered in the United States and other 
-countries.   
-==============================================================================*/
+*/ Placing airplane using markerless approach on detecting the floor plane and then playing with the airplane in real world environment.
+    The plane can be controlled using the joystick controls.
+   */
 
 using System.Collections.Generic;
 using UnityEngine;
