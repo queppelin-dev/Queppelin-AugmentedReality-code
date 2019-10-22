@@ -1,4 +1,4 @@
-*/ Placing airplane using markerless approach on detecting the floor plane and then playing with the airplane in real world environment.
+/* Placing airplane using markerless approach on detecting the floor plane and then playing with the airplane in real world environment.
     The plane can be controlled using the joystick controls.
    */
 
